@@ -229,13 +229,13 @@ export const navItems = [
       title: "Gifts",
       subTitle: "",
       image_Url:
-        "https://securecdn.pymnts.com/wp-content/uploads/2014/11/Gifts-Photo-700x489.jpg",
+        "https://www.freepnglogos.com/uploads/gift-png/gift-present-prize-icon-24.png",
     },
     {
       id: 7,
       title: "Pet Care",
       subTitle: "",
-      image_Url: "https://cdn.openpr.com/T/c/Tc15444071_g.jpg",
+      image_Url: "https://www.freepnglogos.com/uploads/dog-png/dog-names-popular-male-and-female-dog-names-pets-world-27.png",
     },
     {
       id: 8,
@@ -271,7 +271,7 @@ export const navItems = [
       image_Url: [
         {
           public_id: "test",
-          url: "https://www.istorebangladesh.com/images/thumbs/0000286_macbook-pro-m1_550.png",
+          url: "https://www.freepnglogos.com/uploads/laptop-png/laptop-transparent-png-pictures-icons-and-png-16.png",
         },
         {
           public_id: "test",
@@ -331,11 +331,11 @@ export const navItems = [
       image_Url: [
         {
           public_id: "test",
-          url: "https://www.istorebangladesh.com/images/thumbs/0000286_macbook-pro-m1_550.png",
+          url: "https://www.freepnglogos.com/uploads/macbook-png/macbook-the-church-apple-your-source-for-apple-news-and-33.png",
         },
         {
           public_id: "test",
-          url: "https://www.istorebangladesh.com/images/thumbs/0000286_macbook-pro-m1_550.png",
+          url: "https://www.freepnglogos.com/uploads/macbook-png/macbook-official-apple-support-34.png",
         },
       ],
       shop: {
